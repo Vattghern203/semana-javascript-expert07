@@ -1,0 +1,27 @@
+Aula 01:
+    github: https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula01;
+
+    cálculo tensorflow: 
+    
+        https://github.com/monaca-samples/blink-to-text/blob/f3d578ff641298913833b04e98e854bf1cfe38e1/src/js/blinkPrediction.js
+        
+        https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU50WTY2aUZLQmVQOVJUaW54aGYtc001dTFSd3xBQ3Jtc0ttNjdYWmc1V2VSa2FOcjVNLUp1Q0Fsb0VpRkMzdGFKeTBsSXRYVTlpVEl0TkpPUzJkQ1VISnFvb0szR0JoU0xGR2xlSWNyX01iVlJMY0VlSDJsMWtwRGw4cWdyQ3dubE1yRFZnNHg0WmFzbU96SC11VQ&q=https%3A%2F%2Fbit.ly%2FblinkPrediction-file&v=U-GlTz7n9h4;
+
+Aula 02:
+
+    Depêndencias do worker.js: https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula02
+
+Aula 03:
+
+    Depêndencias do worker.js: https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula03
+
+Aula 04:
+
+    Certificado: https://docs.google.com/forms/d/e/1FAIpQLSdc28g-NjEwstGb4rvWBkyWvf5ishYZVvIkvs2JRbqu1pjEdg/viewform
+
+
+KEYS: VIKING_HACKERZAO,
+      TERMINEI_SÓ_FALTA_TESTAR,
+      NA_MINHA_MAQUINA_FUNCIONA,
+      JAVASCRIPT_É_SENSACIONAL
+
